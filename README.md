@@ -316,7 +316,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Your Name**
+**SAKSHI**
 - GitHub: [@Sakshi3027](https://github.com/Sakshi3027)
 
 
