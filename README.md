@@ -1,7 +1,5 @@
 # SaaS Churn Prediction System
 
-> **Don't just predict churn—build an early warning system with actionable interventions.**
-
 A comprehensive machine learning system that predicts customer churn at multiple time horizons (30, 60, 90 days), identifies at-risk customers, and recommends specific retention interventions with expected ROI.
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange.svg)
